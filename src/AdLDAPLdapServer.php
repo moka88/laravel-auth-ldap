@@ -1,6 +1,6 @@
 <?php namespace LaravelAuthLdap; 
 
-use adLDAP\adLDAP;
+use Adldap\Adldap;
 use Illuminate\Contracts\Foundation\Application;
 use LaravelAuthLdap\Contracts\LdapServer;
 
